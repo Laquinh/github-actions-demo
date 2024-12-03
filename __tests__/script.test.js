@@ -1,4 +1,4 @@
-const { add, subtract } = require('../script');
+const { add, subtract } = require('../library');
 
 test(
 	'adds two numbers correctly',
